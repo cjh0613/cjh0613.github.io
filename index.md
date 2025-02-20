@@ -1,3 +1,7 @@
+---
+title: Links of h.cjh0613.com
+---
+
 [怎样删除 Archive.today 上已经存档的网页？](https://h.cjh0613.com/zh/posts/how-to-delete-an-archived-page-from-archive-today/)
 
 [我测试了全部的中国AI应用](https://h.cjh0613.com/zh/posts/i-tested-all-china-ai-apps/)
